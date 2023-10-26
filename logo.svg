@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+  <polygon points="150,25 75,175 225,175" fill="#fa8072"/>
+  <text x="150" y="110" font-family="impact" font-size="50" text-anchor="middle" alignment-baseline="middle" fill="#ffcccc">CCK</text>
+</svg>
